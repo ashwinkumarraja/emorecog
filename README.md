@@ -1,4 +1,4 @@
-Emotional Recognition on a custom dataset.
+Emotional Recognition on a CK+ dataset.
 
 Genetic Algorithm has been used as the local search algorithm for feature subset selection.
 
