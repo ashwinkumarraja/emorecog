@@ -1,6 +1,7 @@
 Emotional Recognition on a custom dataset.
 
 Genetic Algorithm has been used as the local search algorithm for feature subset selection.
+
 Hyperparameters:
     Selection : Roulette, Rank based, Steady State
     Crossover: Single point, k = {2,4,6} point, Uniform Crossover
