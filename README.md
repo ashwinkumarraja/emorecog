@@ -12,7 +12,8 @@ Hyperparameters:
     
     
     
-Training Models 
+Training Models
+
 -State Vector Machine
 
 -Artifical Neural Network
